@@ -9,7 +9,16 @@ Since project is based on making standalone application and written in JAVA, you
   ### Procedure
   FROM command line : [Refer this link](https://docs.oracle.com/javase/tutorial/uiswing/start/compile.html)
   
-  FROM IDE: Export the zip file into the IDE. Run it individually.
+  FROM IDE: Export the GUI.zip file into the IDE. Run it individually.
+  
+  [This is a Calculator done using AWT](/AWT.png?raw=true "AWT Calculator.")
+  
+  
+  [This is a Calculator done using Swing](/SwingCalculator.png?raw=true "Swing Calculator.")
+  
+  
+  [This is a Traffic Signal interface.](/SwingTraffic.png?raw=true "Swing Traffic.")
+
 
 # Author
 
